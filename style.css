@@ -10,7 +10,7 @@
 /* hero background image */
 .bgimage {
   height: 100vh;
-  background: url("./images/photo-1531297484001-80022131f5a1.avif");
+  background: url("images/photo-1531297484001-80022131f5a1.avif");
   background-size: cover;
   position: relative;
   padding: 0;
